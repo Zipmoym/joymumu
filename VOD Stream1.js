@@ -14,7 +14,7 @@ WidgetMetadata = {
   id: "vod_stream",
   title: "VOD Stream",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
-  version: "1.2.1",
+  version: "2.3.3",
   requiredVersion: "0.0.1",
   description: "获取聚合VOD影片资源",
   author: "两块",
