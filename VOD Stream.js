@@ -1,8 +1,17 @@
 const RESOURCE_SITES = `
-非凡影视,http://ffzy4.tv/api.php/provide/vod/
-如意资源站,https://cj.rycjapi.com/api.php/provide/vod/at/json/
-量子资源站,https://cj.lziapi.com/api.php/provide/vod/at/json/
+极速资源,https://jszyapi.com/api.php/provide/vod/
+虾米资源,https://gctf.tfdh.top/api.php/provide/vod/
+无尽资源,https://api.wujinapi.me/api.php/provide/vod/
+旺旺短剧,https://api.wwzy.tv/api.php/provide/vod/
+量子资源,https://cj.lziapi.com/api.php/provide/vod/at/json/
+卧龙资源,https://collect.wolongzy.cc/api.php/provide/vod/
+无忧资源,https://www.wyvod.com/api.php/provide/vod/
+如意资源,https://cj.rycjapi.com/api.php/provide/vod/at/json/
+阿里资源,https://alivod.com/api.php/provide/vod/
+电影天堂,http://caiji.dyttzyapi.com/api.php/provide/vod/
 爱奇艺资源站,https://iqiyizyapi.com/api.php/provide/vod/
+牛牛资源,https://api.niuniuzy.me/api.php/provide/vod
+索尼资源,https://suoniapi.com/api.php/provide/vod
 `;
 
 const CHINESE_NUM_MAP = {
