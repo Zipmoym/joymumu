@@ -86,10 +86,10 @@ const premiumOptions = SOURCES.filter(s => s.group === "premium").map(s => ({ ti
 // ================= 2. 模块元数据定义 =================
 WidgetMetadata = {
     id: "vod_max_engine_makka",
-    title: "VOD资源聚合",
+    title: "VOD资源聚合18",
     description: "内置海量采集接口（含18+）",
-    author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
-    version: "1.0.0",
+    author: "自用",
+    version: "1.0.1",
     requiredVersion: "0.0.1",
     detailCacheDuration: 3600,
     modules: [
